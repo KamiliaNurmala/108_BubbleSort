@@ -54,3 +54,11 @@ void display() {
 	cout << endl;
 }
 
+int main() {
+
+	input();
+	bubbleSortArray();
+	display();
+
+	return 0;
+}
